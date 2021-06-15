@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, I'm Saqib Rahman</h1>
 <h3 align="center">A passionate Cloud-Native Application Developer. Basically, an aspiring Cloud Engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srahmanistic" alt="srahmanistic" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srahmanistic" alt="srahmanistic" /></a> </p>
 
 - 🔭 I’m currently working on **building a turn-based game with Amazon DynamoDB and Amazon SNS.**
 
