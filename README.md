@@ -4,9 +4,9 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srahmanistic" alt="srahmanistic" /></a> </p> -->
 <br>
 
-- 🔭 I’m currently working on **building a turn-based game with Amazon DynamoDB and Amazon SNS.**
+- 🔭 I’m currently working on **refactoring monolithic client-server architecture web application to serverless, microservices arcitecture.**
 
-- 🌱 I’m currently learning **microservices architecture, AWS' services**
+- 🌱 I’m currently learning **containerisation tools, AWS and Open Source tools for DevOps.**
 
 - 👯 I’m looking to collaborate on **developing Cloud-Native applications.**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rahmansaqib17@gmail.com**
 
-- 📄 Know about my experiences [rahmansaqib.tk](http://rahmansaqib.tk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M5NmBuYaaM6961yDJgOCMM5POHJMDgXN/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny!**
 
