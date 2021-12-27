@@ -4,7 +4,7 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srahmanistic" alt="srahmanistic" /></a> </p> -->
 <br>
 
-- 🔭 I’m currently working on **refactoring monolithic client-server architecture web application to serverless, microservices arcitecture.**
+- 🔭 I’m currently working on **refactoring client-server architecture web application to serverless, microservices architecture.**
 
 - 🌱 I’m currently learning **containerisation tools, AWS and Open Source tools for DevOps.**
 
