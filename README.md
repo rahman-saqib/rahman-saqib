@@ -29,9 +29,9 @@
 
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=rahman-saqib&color=blueviolet" alt="srahmanistic" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahman-saqib&show_icons=true&theme=dark&locale=en&layout=compact" alt="srahmanistic" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahman-saqib&show_icons=true&theme=dark&locale=en&layout=compact" alt="srahmanistic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahman-saqib&show_icons=true&theme=dark&locale=en" alt="srahmanistic" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahman-saqib&show_icons=true&theme=dark&locale=en" alt="srahmanistic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahman-saqib&theme=dark" alt="srahmanistic" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahman-saqib&theme=dark" alt="srahmanistic" /></p>
 
