@@ -16,7 +16,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M5NmBuYaaM6961yDJgOCMM5POHJMDgXN/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
